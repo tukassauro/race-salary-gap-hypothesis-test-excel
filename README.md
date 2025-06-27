@@ -17,7 +17,7 @@ Testar se existe uma diferença salarial estatisticamente significativa entre fu
 | White    | 112 | \$67,323.10       | \$1,168,051,481.95     |
 | Nonwhite | 62  | \$70,917.26       |                        |
 
-**T-score:** Calculated manually  
+**T-score:** 0.66 
 **p-value:** 0.510
 
 ---
@@ -36,7 +36,7 @@ Como o valor de p (0,510) é maior do que os níveis comuns de significância (p
 
 - Microsoft Excel
 
----
+- https://www.socscistatistics.com/pvalues/tdistribution.aspx
 
 ## 📁 Files | Arquivos
 
